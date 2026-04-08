@@ -27,3 +27,8 @@ token.json
 
 # System files
 Thumbs.db
+credentials.json
+venv/
+__pycache__/
+*.pyc
+token.json
