@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Editor files
+*.swp
+*.swo
+*.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Gmail / Google auth
+token.json
+
+# Excel tracker
+*.xlsx
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
